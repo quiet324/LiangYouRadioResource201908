@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181115",
-		"title": "雅各在示剑留下臭名（1）（创34:1-3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th181115.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181115/th/th181115.mp3",
-		"id": 32181115
-	},
-	{
 		"time": "20181116",
 		"title": "人子救主的教导（2）（路10:8-16）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th181116.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201907/th20190216/th/th190216.mp3",
 		"id": 32190216
+	},
+	{
+		"time": "20190217",
+		"title": "供职之人与城墙告成礼（4）（尼12:27-30）",
+		"downUrl": "http://txly2.net/ly/audio/2019/th/th190217.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/th20190217/th/th190217.mp3",
+		"id": 32190217
 	}
 ]

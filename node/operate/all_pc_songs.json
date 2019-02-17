@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181116",
-		"title": "皮小弟与妙阿姨：占便宜就是吃亏",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181116.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181116/pc/pc181116.mp3",
-		"id": 17181116
-	},
-	{
 		"time": "20181117",
 		"title": "圣经好好听：老来胡涂的所罗门王",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181117.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201907/pc20190216/pc/pc190216.mp3",
 		"id": 17190216
+	},
+	{
+		"time": "20190218",
+		"title": "你来品品理：勇气飞行比赛（下）",
+		"downUrl": "http://txly2.net/ly/audio/2019/pc/pc190218.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/pc20190218/pc/pc190218.mp3",
+		"id": 17190218
 	}
 ]

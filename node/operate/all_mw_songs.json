@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181116",
-		"title": "神的磨石（约16:20-33）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181116.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/mw20181116/mw/mw181116.mp3",
-		"id": 30181116
-	},
-	{
 		"time": "20181117",
 		"title": "祷告，莫沮丧（路11:1-13）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181117.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/mw20190217/mw/mw190217.mp3",
 		"id": 30190217
+	},
+	{
+		"time": "20190218",
+		"title": "信是得着的就必得着（可11:20-25）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190218.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/mw20190218/mw/mw190218.mp3",
+		"id": 30190218
 	}
 ]

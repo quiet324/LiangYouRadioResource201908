@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181116",
-		"title": "从布道到培训：神的审判（主持：卢文、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181116.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181116/ds/ds181116.mp3",
-		"id": 46181116
-	},
-	{
 		"time": "20181117",
 		"title": "从布道到培训：神审判的原则（主持：卢文、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181117.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/ds20190217/ds/ds190217.mp3",
 		"id": 46190217
+	},
+	{
+		"time": "20190218",
+		"title": "良院专区：流心角、公布《诗歌智慧书II》和《约翰福音》考题（主持：阮一心、万峰）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190218.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/ds20190218/ds/ds190218.mp3",
+		"id": 46190218
 	}
 ]

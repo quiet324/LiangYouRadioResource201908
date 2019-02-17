@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181116",
-		"title": "赞美旋律：韦瓦第长笛协奏曲F大调之《海上暴风雨》、长笛、双簧管、低音管协奏曲F大调之《海上暴风雨》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181116.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181116/cw/cw181116.mp3",
-		"id": 51181116
-	},
-	{
 		"time": "20181119",
 		"title": "生命之歌：萧华德《倚靠永远的圣手》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181119.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201907/cw20190215/cw/cw190215.mp3",
 		"id": 51190215
+	},
+	{
+		"time": "20190218",
+		"title": "生命之歌：克勒窝的伯尔纳《慕主歌》、《爱心之乐歌》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190218.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/cw20190218/cw/cw190218.mp3",
+		"id": 51190218
 	}
 ]

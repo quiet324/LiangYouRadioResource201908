@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181116",
-		"title": "彩虹花园：第九章、山毛榉林里发生的事-2；第十章、进入光中-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181116.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181116/bc/bc181116.mp3",
-		"id": 10181116
-	},
-	{
 		"time": "20181119",
 		"title": "信心日引：祈求神赐下怜悯（诗51:1）；俗世圣徒：第十九章、神学-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181119.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201907/bc20190215/bc/bc190215.mp3",
 		"id": 10190215
+	},
+	{
+		"time": "20190218",
+		"title": "信心日引：寻见真神（罗1:22-23）、以人为镜：先知篇2-失职的祭司父亲-以利",
+		"downUrl": "http://txly2.net/ly/audio/2019/bc/bc190218.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/bc20190218/bc/bc190218.mp3",
+		"id": 10190218
 	}
 ]

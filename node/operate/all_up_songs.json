@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181116",
-		"title": "情绪与真理（15）错误信念产生的原因（1）（讲员：傅立德牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up181116.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181116/up/up181116.mp3",
-		"id": 20181116
-	},
-	{
 		"time": "20181119",
 		"title": "情绪与真理（16）错误信念产生的原因（2）（讲员：傅立德牧师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up181119.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201907/up20190215/up/up190215.mp3",
 		"id": 20190215
+	},
+	{
+		"time": "20190218",
+		"title": "为孩子立界限（6）孩子需要有界限的父母（下）；和褚爸爸聊天（6）如何面对哭泣的孩子",
+		"downUrl": "http://txly2.net/ly/audio/2019/up/up190218.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201908/up20190218/up/up190218.mp3",
+		"id": 20190218
 	}
 ]

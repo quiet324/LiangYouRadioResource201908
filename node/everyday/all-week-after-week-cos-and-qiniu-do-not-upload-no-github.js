@@ -15,8 +15,8 @@ var deasync = require('deasync');
 
 var rule = new schedule.RecurrenceRule();
 // rule.dayOfWeek = [0, new schedule.Range(4, 6)];
-rule.hour = [1, 2, 6, 9, 14, 17, 21];
-rule.minute = 31;
+rule.hour = [1, 2, 6, 9, 15, 17, 21];
+rule.minute = 34;
 
 
 
@@ -157,7 +157,7 @@ var j = schedule.scheduleJob(rule, function() { // rule hour at 5 minutes
 
         shell.cd('node/everyday');
 
-        if (shell.exec('node all-week-after-week-cos-and-qiniu-do-not-upload.js').code !== 0) {
+        if (shell.exec('node all-week-after-week-cos-and-qiniu-do-not-upload-no-github.js').code !== 0) {
             shell.echo('Error: node all.js failed');
             shell.exit(1);
         }
